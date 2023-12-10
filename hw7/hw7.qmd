@@ -426,5 +426,5 @@ df
 
 ## Reflection
 
-The project is very useful in regards to learning from my mistakes. It was fun being allowed to screw up to a degree because then you learned something new from it. The class demos have also made the homework more digestable. It was a fun to  be able to start from scratch and watch yourself build and manipulate but difficult to manage time considering you have to finish one file to get started on the other and contiously going back and forth to fix both. Overall though this homework hoonoestly helped me learn alot and by the end ofit i felt comfortable helping other people  fix  their error which is always a good feeling so thank you for equipping me with that skill. 
+The project is very useful in regards to learning from my mistakes. It was fun being allowed to screw up to a degree because then you learned something new from it. The class demos have also made the homework more digestable. It was a fun to  be able to start from scratch and watch yourself buildand manipulate but difficult to manage time considering you have to finish one file to get started on the other and contiously going back and forth to fix both. Overall though this homework hoonoestly helped me learn alot and by the end ofit i felt comfortable helping other people  fix  their error which is always a good feeling so thank you for equipping me with that skill. 
 
