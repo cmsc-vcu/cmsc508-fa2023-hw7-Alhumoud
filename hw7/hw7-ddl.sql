@@ -120,19 +120,60 @@ create table peopleskills (
 # Person 10 has skills 1,4,5;
 # Note that no one has yet acquired skills 7 and 8.
  
+-- Inserting skills for Person 1
 insert into peopleskills (people_id, skills_id) values
-    (1,1),
-    (1,3),
-    (1,5),
-    (2,1),
-    (2,4),
-    (3,3),
-    (3,4),
-    (3,5),
-    (5,3);
+    (1, 1),
+    (1, 3),
+    (1, 6);
 
+-- Inserting skills for Person 2
 insert into peopleskills (people_id, skills_id) values
-  (6,1);
+    (2, 3),
+    (2, 4),
+    (2, 5);
+
+-- Inserting skills for Person 3
+insert into peopleskills (people_id, skills_id) values
+    (3, 1),
+    (3, 5);
+
+-- Person 4 has no skills
+
+-- Inserting skills for Person 5
+insert into peopleskills (people_id, skills_id) values
+    (5, 3),
+    (5, 6);
+
+-- Inserting skills for Person 6
+insert into peopleskills (people_id, skills_id) values
+    (6, 2),
+    (6, 3),
+    (6, 4);
+
+-- Inserting skills for Person 7
+insert into peopleskills (people_id, skills_id) values
+    (7, 3),
+    (7, 5),
+    (7, 6);
+
+-- Inserting skills for Person 8
+insert into peopleskills (people_id, skills_id) values
+    (8, 1),
+    (8, 3),
+    (8, 5),
+    (8, 6);
+
+-- Inserting skills for Person 9
+insert into peopleskills (people_id, skills_id) values
+    (9, 2),
+    (9, 5),
+    (9, 6);
+
+-- Inserting skills for Person 10
+insert into peopleskills (people_id, skills_id) values
+    (10, 1),
+    (10, 4),
+    (10, 5);
 
 select * from peopleskills;
 select count(*) from peopleskills;
