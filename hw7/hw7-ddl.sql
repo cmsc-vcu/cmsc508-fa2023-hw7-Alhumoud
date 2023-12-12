@@ -49,13 +49,16 @@ create table skills(
 # You can assign skill names.  Please be creative!
 
 insert into skills (id, name, tag) values
-(1,'rock climbing','Skill 1'),
-(2,'mind reading','Skill 2'),
-(3,'cooking','Skill 3'),
-(4,'coding with python','Skill 4'),
-(5,'break dancing','Skill 5'),
-(6,'drawing','Skill 6')
-;
+    (1, 'Rock Climbing', 'Skill 1'),
+    (2, 'Mind Reading', 'Skill 2'),
+    (3, 'Cooking', 'Skill 3'),
+    (4, 'Coding with Python', 'Skill 4'),
+    (5, 'Break Dancing', 'Skill 5'),
+    (6, 'Drawing', 'Skill 6'),
+    (7, 'Photography', 'Skill 7'),
+    (8, 'Boogying', 'Skill 8'),
+    (9, 'Grooving', 'Skill 9'),
+    (10, 'Shimmying', 'Skill 10');
 
 select  * from skills;
 
